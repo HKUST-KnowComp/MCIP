@@ -1,20 +1,37 @@
 
+<div align="center">
 
-# MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol
+<p align="center">
+  <picture>
+    <source srcset="assets/mcip-white.png" media="(prefers-color-scheme: dark)">
+    <source srcset="assets/mcip.png" media="(prefers-color-scheme: light)">
+    <img src="assets/mcip.png" alt="MCIP Logo" width="120px">
+  </picture>
+</p>
+<h1>MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol</h1>
 
-[Huihao Jing](https://egbertjing.github.io/)<sup>1</sup>, 
-[Haoran Li](https://hlibt.student.ust.hk/)<sup>🤗 1</sup>, 
-[Wenbin Hu](https://whuak.github.io/)<sup>1</sup>, 
-Qi Hu<sup>1</sup>, 
-Heli Xu<sup>2</sup>
-Tianshu Chu<sup>2</sup>, 
-[Peizhao Hu](https://www.cs.rit.edu/~ph/)<sup>2</sup>, 
-[Yangqiu Song](https://www.cse.ust.hk/~yqsong/)<sup>1</sup>
+<p>
+  <a href="https://egbertjing.github.io/">Huihao Jing</a><sup>1</sup>, 
+  <a href="https://hlibt.student.ust.hk/">Haoran Li</a><sup>🤗 1</sup>, 
+  <a href="https://whuak.github.io/">Wenbin Hu</a><sup>1</sup>, 
+  Qi Hu<sup>1</sup>, 
+  Heli Xu<sup>2</sup>, 
+  Tianshu Chu<sup>2</sup>, 
+  <a href="https://www.cs.rit.edu/~ph/">Peizhao Hu</a><sup>2</sup>, 
+  <a href="https://www.cse.ust.hk/~yqsong/">Yangqiu Song</a><sup>1</sup>
+</p>
 
-<sup>🤗</sup>Corresponding author.
+<p>
+<sup>🤗</sup>Corresponding author.  
+</p>
 
-<sup>1</sup>Hong Kong University of Science and Technology, 
-<sup>2</sup>HuaweiTechnologies
+<p>
+<sup>1</sup>Hong Kong University of Science and Technology  
+<br>
+<sup>2</sup>Huawei Technologies
+</p>
+
+</div>
 
 
 <p align="center">
@@ -45,7 +62,11 @@ Next, we develop a fine-grained taxonomy that captures a diverse range of unsafe
 
 # 😎 Our Contributions
 ## Safety Analysis to MCP
-![application](./assets/application.png)
+
+<img src="./assets/taxonomy.png" alt="taxonomy" width="50%"/>
+
+## MCIP -- Safer Version of MCP
+
 
 
 
