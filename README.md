@@ -60,14 +60,6 @@
 As Model Context Protocol (MCP) introduces an easy-to-use ecosystem for users and developers, it also brings underexplored safety risks. Its decentralized architecture, which separates clients and servers, poses unique challenges for systematic safety analysis. This paper proposes a novel framework to enhance MCP safety. Guided by the MAESTRO framework, we first analyze the missing safety mechanisms in MCP, and based on this analysis, we propose the Model Contextual Integrity Protocol (MCIP), a refined version of MCP that addresses these gaps. 
 Next, we develop a fine-grained taxonomy that captures a diverse range of unsafe behaviors observed in MCP scenarios.  Building on this taxonomy, we develop benchmark and training data that support the evaluation and improvement of LLMs' capabilities in identifying safety risks within MCP interactions. Leveraging the proposed benchmark and training data, we conduct extensive experiments on state-of-the-art LLMs. The results highlight LLMs' vulnerabilities in MCP interactions and demonstrate that our approach substantially improves their safety performance.
 
-# 😎 Our Contributions
-## Safety Analysis to MCP
-
-<img src="./assets/taxonomy.png" alt="taxonomy" width="50%"/>
-
-## MCIP -- Safer Version of MCP
-
-
 
 
 
