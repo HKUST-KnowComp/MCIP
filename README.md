@@ -98,7 +98,7 @@ Please send any questions about the code and/or the method to hjingaa@connect.us
 ██╔████╔██║██║      ██║██████╔╝
 ██║╚██╔╝██║██║      ██║██╔═══╝ 
 ██║ ╚═╝ ██║╚██████╗ ██║██║     
-╚═╝     ╚═╝ ╚═════╝ ╚═╝╚═╝  
+╚═╝     ╚═╝ ╚═════╝ ╚═╝╚═╝     
 </pre>
 
 </div>
