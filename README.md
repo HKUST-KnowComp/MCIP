@@ -72,6 +72,11 @@ This allows user to try our system without any environment setup or computationa
       "url": "http://songcpu1.cse.ust.hk:20103/sse"
     }
 ```
+And start with this prompt
+```
+Here is a background:
+Before each subsequent step that may involve a tool invocation, a draft request should be prepared in advance. This request must include all historical records up to that point. The request should start from the user’s initial enquiry, along with any prior function call logs and submitted requests. Please submit the request to the MCIP Guardian for review. If the request is not approved, a warning should be issued to the user.
+```
 
 # 😎 Quick Start: Try Our MCIP Guardian Model
 ```
