@@ -63,12 +63,12 @@ Next, we develop a fine-grained taxonomy that captures a diverse range of unsafe
 
 
 
-# Quick Start: try our MCIP Guardian model
+# 😎 Quick Start: try our MCIP Guardian model
 ```
 bash dp_eval.sh
 ```
 
-# Quick Start: try our MCIP Guardian server
+# 😎 Quick Start: try our MCIP Guardian server
 As with any MCP server, MCIP Guardian can be used across all MCP-supported platforms.
 
 This allows you to try our system without any environment setup or computational resources. 
