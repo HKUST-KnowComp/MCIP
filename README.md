@@ -71,7 +71,7 @@ bash dp_eval.sh
 # 😎 Quick Start: try our MCIP Guardian server
 As with any MCP server, MCIP Guardian can be used across all MCP-supported platforms.
 
-This allows you to try our system without any environment setup or computational resources. 
+This allows user to try our system without any environment setup or computational resources. 
 ## Simply add the configuration to your MCP config files.
 ```
 "MCIP Guardian": {
