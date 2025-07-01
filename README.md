@@ -61,14 +61,7 @@ As Model Context Protocol (MCP) introduces an easy-to-use ecosystem for users an
 Next, we develop a fine-grained taxonomy that captures a diverse range of unsafe behaviors observed in MCP scenarios.  Building on this taxonomy, we develop benchmark and training data that support the evaluation and improvement of LLMs' capabilities in identifying safety risks within MCP interactions. Leveraging the proposed benchmark and training data, we conduct extensive experiments on state-of-the-art LLMs. The results highlight LLMs' vulnerabilities in MCP interactions and demonstrate that our approach substantially improves their safety performance.
 
 
-
-
-# 😎 Quick Start: try our MCIP Guardian model
-```
-bash dp_eval.sh
-```
-
-# 😎 Quick Start: try our MCIP Guardian server
+# 😎 Quick Start(recommended): try our MCIP Guardian server
 As with any MCP server, MCIP Guardian can be used across all MCP-supported platforms.
 
 This allows user to try our system without any environment setup or computational resources. 
@@ -79,6 +72,13 @@ This allows user to try our system without any environment setup or computationa
       "url": "http://songcpu1.cse.ust.hk:20103/sse"
     }
 ```
+
+# 😎 Quick Start: try our MCIP Guardian model
+```
+bash dp_eval.sh
+```
+
+
 
 # Citation
 Please kindly cite the following paper if you found our method and resources helpful!
