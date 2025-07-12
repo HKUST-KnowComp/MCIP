@@ -69,7 +69,7 @@ This allows user to try our system without any environment setup or computationa
 ```
 "MCIP Guardian": {
       "type": "sse",
-      "url": "http://songcpu1.cse.ust.hk:20103/sse"
+      "url": "https://songcpu1.cse.ust.hk/mcip/"
     }
 ```
 And start with this prompt
